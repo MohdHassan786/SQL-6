@@ -1,0 +1,8 @@
+C:\Users\HASSAN\source\repos\SQL-6\SQL-6\bin\Debug\SQL-6.exe.config
+C:\Users\HASSAN\source\repos\SQL-6\SQL-6\bin\Debug\SQL-6.exe
+C:\Users\HASSAN\source\repos\SQL-6\SQL-6\bin\Debug\SQL-6.pdb
+C:\Users\HASSAN\source\repos\SQL-6\SQL-6\obj\Debug\SQL-6.csproj.AssemblyReference.cache
+C:\Users\HASSAN\source\repos\SQL-6\SQL-6\obj\Debug\SQL-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\HASSAN\source\repos\SQL-6\SQL-6\obj\Debug\SQL-6.csproj.CoreCompileInputs.cache
+C:\Users\HASSAN\source\repos\SQL-6\SQL-6\obj\Debug\SQL-6.exe
+C:\Users\HASSAN\source\repos\SQL-6\SQL-6\obj\Debug\SQL-6.pdb
